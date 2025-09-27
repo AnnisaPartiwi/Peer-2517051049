@@ -2,11 +2,6 @@
 using namespace std;
 
 int main(){
-     string nama;
-     string NPM;
-     int umur;
-     int nilai;
-
-     cout << m
+      cout << "Halo dunia" << endl;
     return 0;
 }
